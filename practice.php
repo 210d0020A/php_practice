@@ -51,3 +51,6 @@ var_dump($result);
 
 $result = $a === $b;
 var_dump($result);
+
+$height = 160;
+
